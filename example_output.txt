@@ -1,10 +1,11 @@
-16000000 draws, Tip: 1,2,3,4,5,6
+100000000 draws, Tip: 1,2,3,4,5,6
 Drawing from a pool of 1 - 45
-6 Correct Numbers:                2 wins, or 0.00001250 %
-5 Correct Numbers + Bonus Number: 9 wins, or 0.00005625 %
-5 Correct Numbers:                493 wins, or 0.00308125 %
-4 Correct Numbers + Bonus Number: 1149 wins, or 0.00718125 %
-4 Correct Numbers:                20208 wins, or 0.12630000 %
-3 Correct Numbers + Bonus Number: 26235 wins, or 0.16396875 %
-3 Correct Numbers:                214472 wins, or 1.34045000 %
-0 Correct Numbers + Bonus Number: 392821 wins, or 2.45513125 %
+100%|██████████| 100000000/100000000 [15:42<00:00, 106064.17it/s]
+6 Correct Numbers:                15 wins, or 0.00001500 %
+5 Correct Numbers + Bonus Number: 64 wins, or 0.00006400 %
+5 Correct Numbers:                2886 wins, or 0.00288600 %
+4 Correct Numbers + Bonus Number: 6979 wins, or 0.00697900 %
+4 Correct Numbers:                129376 wins, or 0.12937600 %
+3 Correct Numbers + Bonus Number: 172136 wins, or 0.17213600 %
+3 Correct Numbers:                2070148 wins, or 2.07014800 %
+Only Bonus Number:                13153811 wins, or 13.15381100 %
